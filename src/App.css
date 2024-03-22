@@ -13,6 +13,22 @@
   }
 }
 
+.SingleTodo {
+  border-radius:  50px;
+  margin: 10 px 0 ;
+  background-color: #5dadf8;
+  padding: 10px 20px;
+  display:  flex;
+  width: 450px;
+  align-items: center;
+
+
+}
+.todoText {
+  text-align: start;
+  flex: 1;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
